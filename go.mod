@@ -2,4 +2,4 @@ module github.com/beebeeep/balls
 
 go 1.18
 
-require github.com/veandco/go-sdl2 v0.4.38 // indirect
+require github.com/veandco/go-sdl2 v0.4.38
